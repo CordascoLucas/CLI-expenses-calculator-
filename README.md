@@ -1,0 +1,1 @@
+# Simpled CLI Expenses Calculator
